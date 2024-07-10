@@ -1,4 +1,4 @@
-# Nomnio Weather App
+# MBWeather App
 
 This project is a demonstration of a weather application built using Ionic and Angular for Nomnio d.o.o. The application fetches a 5-day weather forecast for Maribor from the OpenWeatherMap API and displays it in a user-friendly manner. The project showcases best practices in frontend development, including responsive design, multilingual support, and local storage caching.
 
